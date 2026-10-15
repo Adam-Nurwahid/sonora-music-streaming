@@ -172,6 +172,9 @@ Minta agent di Antigravity menampilkan daftar project Stitch. Jika project muncu
 
 ## 📸 Demo
 
+**🔗 Lihat langsung project Stitch yang dipakai di sesi ini:**
+[Buka project di Google Stitch](https://stitch.withgoogle.com/projects/14252213267673994542)
+
 <!-- Tambahkan screenshot desain Stitch dan hasil aplikasi -->
 | Desain (Google Stitch) | Hasil Kode |
 |------------------------|------------|
@@ -182,7 +185,3 @@ Minta agent di Antigravity menampilkan daftar project Stitch. Jika project muncu
 ## 👤 Author
 
 **Adam Toyib Nur Wahid** — [GitHub]([https://github.com/username](https://github.com/Adam-Nurwahid)) · [LinkedIn]([https://linkedin.com/in/username](https://www.linkedin.com/in/adam-toyib/))
-
-## 📜 License
-
-Dilisensikan di bawah [MIT License](LICENSE).
