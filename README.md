@@ -175,7 +175,7 @@ Minta agent di Antigravity menampilkan daftar project Stitch. Jika project muncu
 <!-- Tambahkan screenshot desain Stitch dan hasil aplikasi -->
 | Desain (Google Stitch) | Hasil Kode |
 |------------------------|------------|
-| ![stitch](assets/stitch.png) | ![result](assets/result.png) |
+| ![stitch](src/assets/stitch.png) | ![result](src/assets/result.png) |
 
 ---
 
